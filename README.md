@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" alt="footer image" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" />
