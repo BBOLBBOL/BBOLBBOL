@@ -1,13 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=header" />
-# 👋 Hello there!
+## 👋 Hello there!
 
-I'm [Your Name], a passionate developer who loves exploring new technologies and creating innovative solutions. Welcome to my GitHub profile!
+I'm Jun, a passionate developer who loves exploring new technologies and creating innovative solutions. Welcome to my GitHub profile!
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: React, Node.js, Django
-- **Databases**: MySQL, MongoDB
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+
+### Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+
+### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-005E8C?style=flat-square&logo=mysql&logoColor=ffffff)
 
 ## 🌟 Projects
 
@@ -18,25 +27,16 @@ Here are some of my favorite projects:
 - [Project 3](link_to_project_3): Brief description of project 3.
 
 ## 📫 Connect with me
-
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
-- [Email](mailto:your_email@example.com)
+- [Email](mailto:junage7777777@gmail.com)
 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=light)
 
-## 🏆 Badges
-
-![Badges](https://img.shields.io/badge/JavaScript-ES6-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
-![Badges](https://img.shields.io/badge/React-16.13.1-61dafb?style=flat-square&logo=react&logoColor=000000)
-
 ## 🎉 Fun Facts
 
-- I love hiking and exploring nature.
-- I'm a big fan of sci-fi movies!
-- I enjoy contributing to open-source projects.
+- I love baseball and I'm a fan of the Lotte Giants.
+- I'm an ENFP, which means I'm enthusiastic, creative, and love exploring new ideas!
 
 ## 🙏 Thank you for visiting!
 
