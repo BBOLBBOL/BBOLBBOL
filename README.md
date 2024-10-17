@@ -6,8 +6,9 @@
 ## 🛠️ 기술 스택
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000000)
+
 
 ### Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
