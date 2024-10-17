@@ -26,7 +26,7 @@ Here are some of my favorite projects:
 - [Another Cool Project](https://github.com/BBOLBBOL/Kidzpark): 웹소캣과 카카오 오픈 API를 활용한 KIDZONE 매장홍보 및 육아커뮤니티 프로젝트
 - 
 ## 📫 연락하기
-- [Email](mailto:junage7777777@gmail.com)
+- [Gmail](mailto:junage7777777@gmail.com)
 
 ## 🎉 재미있는 사실들
 
