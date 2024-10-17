@@ -29,10 +29,6 @@ Here are some of my favorite projects:
 ## 📫 Connect with me
 - [Email](mailto:junage7777777@gmail.com)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BBOLBBOL&show_icons=true&theme=light)
-
 ## 🎉 Fun Facts
 
 - I love baseball and I'm a fan of the Lotte Giants.
