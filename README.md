@@ -1,6 +1,7 @@
 ## 👋 안녕하세요!
 
-I'm Jun, a passionate developer who loves exploring new technologies and creating innovative solutions. Welcome to my GitHub profile!
+저는 준입니다. 새로운 기술을 탐구하고 혁신적인 솔루션을 만드는 것을 사랑하는 열정적인 개발자입니다. 제 GitHub 프로필에 오신 것을 환영합니다!
+
 
 ## 🛠️ 기술 스택
 
