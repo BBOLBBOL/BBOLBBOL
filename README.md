@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=header" />
 ## 👋 Hello there!
 
 I'm Jun, a passionate developer who loves exploring new technologies and creating innovative solutions. Welcome to my GitHub profile!
@@ -38,7 +37,6 @@ Here are some of my favorite projects:
 
 Feel free to explore my repositories, and don't hesitate to reach out!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ADD8E6&height=100&section=footer" alt="footer image" />
 
 
 
