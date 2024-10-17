@@ -31,7 +31,7 @@ Here are some of my favorite projects:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=light)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BBOLBBOL&show_icons=true&theme=light)
 
 ## 🎉 Fun Facts
 
